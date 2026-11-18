@@ -2,6 +2,9 @@
 
 Fuzzy-searchable select list component for [Pulsar](https://pulsar-edit.dev/). An [etch component](https://github.com/atom/etch) with keyboard/mouse navigation and built-in panel management.
 
+> [!NOTE]
+> This package is in maintenance mode. In [Lumine](https://github.com/lumine-code/lumine), [select lists](https://github.com/lumine-code/lumine/blob/master/docs/select-list-search.md) are built into the editor.
+
 Fork of [atom-select-list](https://github.com/atom/atom-select-list). Designed exclusively for use in Pulsar packages.
 
 ## Features
